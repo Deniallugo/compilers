@@ -4,7 +4,6 @@
 
 cache/
 
-.vscode
 /.envrc
 .idea
 .nlsp-settings
@@ -13,3 +12,7 @@ devenv.local.nix
 .direnv
 .pre-commit-config.yaml
 .lock
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
